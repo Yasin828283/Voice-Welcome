@@ -29,18 +29,16 @@ echo "    YMb           ~YMMMM\ OOOOI•••••IOOOOO /MMMMP~           dMP
 echo "      Mb.            YMMMb OOOI,,,,,IOOOO dMMMP            ,dM  "
 echo "       ••                   OObNNNNNdOO                    •• "
 echo "                              ~OOOOO~    SUMAN "
-echo "              _ "
-echo "             / \ ._  | o ._   _    |_|  _.  _ |  o ._   _ "
-echo "             \_/ | | | | | | (/_   | | (_| (_ |< | | | (_| "
-echo "                                                        _| "
+echo "                                   AMIN
+
 echo -e "\e[1;92m"
 echo "   ⊢□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■■□■□■□■□■□■□■□■□■□■⊣"
 echo ""
-echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mWebSite   \e[1;91m =  \e[1;97monlinehacking.in"
+echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97channel    \e[1;91m =  \e[1;97@AMIN_1818"
 echo "" 
-echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mGithub    \e[1;91m =  \e[1;97m@onlinehacking"
+echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97Contact    \e[1;91m =  \e[1;97m09058550828"
 echo ""
-echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mTelegram  \e[1;91m =  \e[1;97m@OnlineHacking"
+echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97m Rubik's  \e[1;91m =  \e[1;97m@YASIN_4487"
 echo ""
 echo ''
 date | lolcat
